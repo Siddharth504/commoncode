@@ -82,7 +82,7 @@ module fifo
                   begin
                      fifo_empty =0;
                   end
-    end
+     end
 endmodule 
       
                       
